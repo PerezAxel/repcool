@@ -4,7 +4,7 @@ import Inicio from "./views/inicio"
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import Nav from "./views/nav";
 
-
+ 
 
 function App() {
     return (
